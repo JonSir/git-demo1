@@ -1,3 +1,5 @@
 What you mean by:
 sword and spear
 wall of shields
+
+Lets try the git gui
